@@ -1,7 +1,9 @@
 h2{
-    font-family: 'Courier New', Courier, monospace;
+   color: rgb(19, 83, 142);
+}
+h2{
+    color: rgb(76, 113, 151) !important;
 }
 .darkcolor{
-    background-color: rgb(111, 145, 181) !important
-    ;
+    background-color: rgb(111, 145, 181) !important;
 }
